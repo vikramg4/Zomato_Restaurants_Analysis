@@ -1,8 +1,6 @@
-***Project:*** *Zomato Restaurants Analysis* 
+***Project:*** *Zomato Restaurants Analysis*  
 ![image](https://github.com/user-attachments/assets/19e4e3ad-955a-411a-a9cb-8ceb45dad94f)
 
-
-![an-excel-spreadsheet](https://github.com/user-attachments/assets/a860fbd6-6648-4888-be3b-5597f9b3d65f)
 
 ***Objective:*** *You are hired as a consultant data analyst by Zomato, where the team is looking to expand and open restaurants. Your task is to develop strategies/suggestions for opening newer restaurants.*
 
@@ -11,4 +9,5 @@
 
 
 
+![image](https://github.com/user-attachments/assets/1df55d96-43b3-4392-a310-61dcfbe8f9bc)
 
