@@ -1,4 +1,4 @@
-Project: Zomato Restaurants Analysis
+***Project:*** Zomato Restaurants Analysis
 ![image](https://github.com/user-attachments/assets/19e4e3ad-955a-411a-a9cb-8ceb45dad94f)
 
 
